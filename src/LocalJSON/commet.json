@@ -1,0 +1,254 @@
+[
+    {
+        "post_id": 0,
+        "comments": [
+
+            {
+                "user_id": 1,
+                "msg": "I'm Umar Farooq (post_id:0 , user_id: 1,)",
+                "pic": "/Img/farooq2.jpg",
+                "user_name":"Umar Farooq"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Hamza Sajjad (post_id:0 , user_id: 2,)",
+                "pic": "/Img/hamzasajjad.jpg",
+                "user_name":"Hamza Sajjad"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Rana Sajid (post_id:0 , user_id: 3,)",
+                "pic": "/Img/ranasajid.png",
+                "user_name":"Rana Sajid"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Emma Watson (post_id:0 , user_id: 4,)",
+                "pic": "/Img/emmawatson.jpg",
+                "user_name":"Emma Watson"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Arham Soft (post_id:0 , user_id: 5,)",
+                "pic": "/Img/arhamsoft.png",
+                "user_name":"Arham Soft"
+            }
+            
+        ]
+    },
+
+    {
+        "post_id": 1,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Imran Khan comment (post_id:1 , user_id: 0,)",
+                "pic": "/Img/ImranKhan.jfif",
+                "user_name":"Imran Khan"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Hamza Sajjad (post_id:1 , user_id: 2,)",
+                "pic": "/Img/hamzasajjad.jpg",
+                "user_name":"Hamza Sajjad"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Rana Sajid (post_id:1 , user_id: 3,)",
+                "pic": "/Img/ranasajid.png",
+                "user_name":"Rana Sajid"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Emma Watson (post_id:1 , user_id: 4,)",
+                "pic": "/Img/emmawatson.jpg",
+                "user_name":"Emma Watson"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Arham Soft (post_id:1 , user_id: 5,)",
+                "pic": "/Img/arhamsoft.png",
+                "user_name":"Arham Soft"
+            }
+            
+        ]
+    },
+
+    {
+        "post_id": 2,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Imran Khan comment (post_id:2 , user_id: 0,)",
+                "pic": "/Img/ImranKhan.jfif",
+                "user_name":"Imran Khan"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Hamza Sajjad (post_id:2 , user_id: 2,)",
+                "pic": "/Img/hamzasajjad.jpg",
+                "user_name":"Hamza Sajjad"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Rana Sajid (post_id:2 , user_id: 3,)",
+                "pic": "/Img/ranasajid.png",
+                "user_name":"Rana Sajid"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Emma Watson (post_id:2 , user_id: 4,)",
+                "pic": "/Img/emmawatson.jpg",
+                "user_name":"Emma Watson"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Arham Soft (post_id:2 , user_id: 5,)",
+                "pic": "/Img/arhamsoft.png",
+                "user_name":"Arham Soft"
+            }
+            
+        ]
+    },
+
+    {
+        "post_id": 3,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Imran Khan comment (post_id:3 , user_id: 0,)",
+                "pic": "/Img/ImranKhan.jfif",
+                "user_name":"Imran Khan"
+            },
+
+            {
+                "user_id": 1,
+                "msg": "I'm Umar Farooq (post_id:3 , user_id: 1,)",
+                "pic": "/Img/farooq2.jpg",
+                "user_name":"Umar Farooq"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Hamza Sajjad (post_id:3 , user_id: 3,)",
+                "pic": "/Img/hamzasajjad.jpg",
+                "user_name":"Hamza Sajjad"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Emma Watson (post_id:3 , user_id: 4,)",
+                "pic": "/Img/emmawatson.jpg",
+                "user_name":"Emma Watson"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Arham Soft (post_id:3 , user_id: 5,)",
+                "pic": "/Img/arhamsoft.png",
+                "user_name":"Arham Soft"
+            }
+            
+        ]
+    },
+    {
+        "post_id": 4,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Imran Khan comment (post_id:4 , user_id: 0,)",
+                "pic": "/Img/ImranKhan.jfif",
+                "user_name":"Imran Khan"
+            },
+
+            {
+                "user_id": 1,
+                "msg": "I'm Umar Farooq (post_id:4 , user_id: 1,)",
+                "pic": "/Img/farooq2.jpg",
+                "user_name":"Umar Farooq"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Hamza Sajjad (post_id:4 , user_id: 3,)",
+                "pic": "/Img/hamzasajjad.jpg",
+                "user_name":"Hamza Sajjad"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Rana Sajid (post_id:4 , user_id: 4,)",
+                "pic": "/Img/ranasajid.png",
+                "user_name":"Rana Sajid"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Arham Soft (post_id:4 , user_id: 5,)",
+                "pic": "/Img/arhamsoft.png",
+                "user_name":"Arham Soft"
+            }
+            
+        ]
+    },
+
+    {
+        "post_id": 5,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Imran Khan comment (post_id:5 , user_id: 0,)",
+                "pic": "/Img/ImranKhan.jfif",
+                "user_name":"Imran Khan"
+            },
+
+            {
+                "user_id": 1,
+                "msg": "I'm Umar Farooq (post_id:5 , user_id: 1,)",
+                "pic": "/Img/farooq2.jpg",
+                "user_name":"Umar Farooq"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Hamza Sajjad (post_id:5 , user_id: 3,)",
+                "pic": "/Img/hamzasajjad.jpg",
+                "user_name":"Hamza Sajjad"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Rana Sajid (post_id:5 , user_id: 4,)",
+                "pic": "/Img/ranasajid.png",
+                "user_name":"Rana Sajid"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Emma Watson (post_id:5 , user_id: 5,)",
+                "pic": "/Img/emmawatson.jpg",
+                "user_name":"Emma Watson"
+            }
+            
+        ]
+    }
+
+  
+]
